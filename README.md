@@ -19,7 +19,10 @@ This repository include my opinion and inspections about this course [JavaScript
 - [5. Intro to Big O](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344044#content)
     - Here Mr.Settle talks about why we really need to know "Big O Notation"
 - [6. Timing Our Code](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344046#content)
-    - He started talk about in situation why we need this and at the moment i'm also do it for best practise at inside of folder BigONotation -> example_001.js
+    - He started talk about in situation why we need this and at the moment i'm also do it for best practise at inside of folder BigONotation -> example_001.js and i leanned new things
+      - [performance.now() Method](https://www.geeksforgeeks.org/javascript-performance-now-method/)
+- [7. Counting Operations](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344048#content)
+    - Coming soon . . .
 
 
 
