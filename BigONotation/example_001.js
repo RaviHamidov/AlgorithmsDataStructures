@@ -8,6 +8,7 @@ function addUpTo(n) {
 
 console.log(addUpTo(6)); // 21
 console.log(addUpTo(8)); // 36
+console.log("---");
 
 function addUpTo(n) {
   return (n * (n + 1)) / 2;
@@ -15,3 +16,4 @@ function addUpTo(n) {
 
 console.log(addUpTo(6)); // 21
 console.log(addUpTo(8)); // 36
+console.log("---");

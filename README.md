@@ -26,8 +26,12 @@ This repository include my opinion and inspections about this course [JavaScript
 - [8. Visualizing Time Complexities](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344026#content)
     - Actualy i understood this topic, but i don't understand about graphics 🆘
 - [9. Official Intro to Big O](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11069998#content)
-    - Coming soon . . 
-
+    - Mr.Settle talk about here a bit Linear, Quadratic, Constant etc. functions everything is clear
+- [10. Simplifying Big O Expressions](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11070006#content)
+    - I watched the video and understood, I didn't need to take notes.
+  - [Quiz 1: Big O Time Complexity Quiz](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/4412974#content)
+  
+    ![](./Storage/screenshot_001.png)
 
 
 
