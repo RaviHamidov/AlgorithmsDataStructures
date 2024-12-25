@@ -49,50 +49,19 @@ This repository include my opinion and inspections about this course [JavaScript
     - Oke 
 - [15. The BIG O of Objects](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344084#content)
     - Practises is [here](./ArraysObjects/example_001.js)
-    
+- [Quiz 4: Object Operations](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/424804#content)
 
+  ![](./Storage/screenshot_004.png)
+- [16. When are Arrays Slow?](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344074#content)
+    - I watched the video and understood, I didn't need to take notes. 
+- [17. Big O of Array Methods](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/424802#content)
+    - I watched the video and understood, I didn't need to take notes, but i will do some tasks about that . . .
+- [Quiz 5: Array Operations](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/424804#content)
 
-
-
+  ![](./Storage/screenshot_005.png)
 
 
 
 ------------------------------------------------------------------
-<!-- 
-![](./design/desktop-design.png)
-
-### Links
-
-- [Solution URL](https://github.com/RaviHamidov/FyloLandingPage)
-- [Live Site URL](https://ravihamidov.github.io/FyloLandingPage/)
-
-## My process
-
-### Built with
-
-- Pattern Sass 7 in 1 pattern `Fixed it for MySelf`
-
-
-- My SASS Folder Structure (for this Project)
-  - css
-    - main.css
-  - sass 
-    - base
-      - _reset.scss
-      - _typography.scss
-    - abstarcts
-      - _colors.scss
-      - _mixins.scss
-      - _variables.scss
-    - layout
-      - _borders.scss
-      - _flex.scss
-      - _grid.scss
-      - _margins.scss
-      - _paddings.scss
-      - _positions.
-
-- Website - [TheHamidov42]( thehamidov42.herokuapp.com)
-- Frontend Mentor - [@RaviHamidov](https://www.frontendmentor.io/profile/@RaviHamidov)
-- Twitter - [@RaviHamidov](https://www.twitter.com/@RaviHamidov)
-- Instagram - [@RaviHamidov](https://www.instagram.com/ravihamidov/) -->
+#### Credits
+- Source: Udemy - [Colt Steele](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/?couponCode=ST12MT122624)
