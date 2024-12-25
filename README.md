@@ -29,17 +29,25 @@ This repository include my opinion and inspections about this course [JavaScript
     - Mr.Settle talk about here a bit Linear, Quadratic, Constant etc. functions everything is clear
 - [10. Simplifying Big O Expressions](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11070006#content)
     - I watched the video and understood, I didn't need to take notes.
-- [Quiz 1: Big O Time Complexity Quiz](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/4412974#content)
+- [Quiz 1: Big O Time Complexity](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/4412974#content)
 
   ![](./Storage/screenshot_001.png)
 
-- [Quiz 2: Big O Time Complexity Quiz](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/4412976#content)
+- [Quiz 2: Big O Time Complexity](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/4412976#content)
 
   ![](./Storage/screenshot_002.png)
   - i'm understood my false no worries
+  
+- [11. Space Complexity](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344050#content)
+    - I watched the video and understood, I didn't need to take notes.
 
+- [Quiz 3: Big O Space Complexity](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/4412978#content)
 
+  ![](./Storage/screenshot_003.png)
+  - i'm understood my false no worries    
 
+- [12. Logs and Section Recap](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11198496#content)
+    - Thanks for Mr.Settle learned for me Logs again 😁
 
 
 
