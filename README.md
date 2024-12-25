@@ -24,7 +24,9 @@ This repository include my opinion and inspections about this course [JavaScript
 - [7. Counting Operations](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344048#content)
     - I watched the video and understood, I didn't need to take notes.
 - [8. Visualizing Time Complexities](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344026#content)
-    - Coming Soon . . .
+    - Actualy i understood this topic, but i don't understand about graphics 🆘
+- [9. Official Intro to Big O](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11069998#content)
+    - Coming soon . . .
 
 
 
