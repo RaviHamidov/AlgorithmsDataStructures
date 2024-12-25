@@ -26,7 +26,7 @@ This repository include my opinion and inspections about this course [JavaScript
 - [8. Visualizing Time Complexities](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344026#content)
     - Actualy i understood this topic, but i don't understand about graphics 🆘
 - [9. Official Intro to Big O](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11069998#content)
-    - Coming soon . . .
+    - Coming soon . . 
 
 
 
