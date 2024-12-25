@@ -16,16 +16,16 @@ This repository include my opinion and inspections about this course [JavaScript
 - [5. Intro to Big O](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344044#content)
     - Here Mr.Settle talks about why we really need to know "Big O Notation"
 - [6. Timing Our Code](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344046#content)
-    - He started talk about in situation why we need this and at the moment i'm also do it for best practise at inside of folder BigONotation -> example_001.js and i leanned new things
+    - He started talk about in situation why we need this and at the moment i'm also do it for best practise [here](./BigONotation/example_001.js) and i leanned new things
       - [performance.now() Method](https://www.geeksforgeeks.org/javascript-performance-now-method/)
 - [7. Counting Operations](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344048#content)
-    - I watched the video and understood, I didn't need to take notes.
+    - I watched the video and understood, I didn't need to take notes. 
 - [8. Visualizing Time Complexities](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344026#content)
     - Actualy i understood this topic, but i don't understand about graphics 🆘
 - [9. Official Intro to Big O](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11069998#content)
     - Mr.Settle talk about here a bit Linear, Quadratic, Constant etc. functions everything is clear
 - [10. Simplifying Big O Expressions](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11070006#content)
-    - I watched the video and understood, I didn't need to take notes.
+    - I watched the video and understood & practised [here](./BigONotation/example_002.js), I didn't need to take notes.
 - [Quiz 1: Big O Time Complexity](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/4412974#content)
 
   ![](./Storage/screenshot_001.png)
@@ -40,9 +40,16 @@ This repository include my opinion and inspections about this course [JavaScript
   ![](./Storage/screenshot_003.png)
   - i'm understood my false no worries    
 - [12. Logs and Section Recap](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11198496#content)
-    - Thanks for Mr.Settle learned for me Logs again 😁
+    - Thanks for Mr.Settle learned for me Logs again 😁, practises is  & practised [here](./BigONotation/example_003.js)
 
-
+### Section 3: Analyzing Performance of Arrays and Objects
+- [13. Prerequisites](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11198496#content)
+    - Oke 
+- [14. Section Introduction](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344072#content)
+    - Oke 
+- [15. The BIG O of Objects](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344084#content)
+    - Practises is [here](./ArraysObjects/example_001.js)
+    
 
 
 
