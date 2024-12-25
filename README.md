@@ -1,10 +1,8 @@
 # AlgorithmsDataStructures
-
 This repository include my opinion and inspections about this course [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/?couponCode=JUST4U02223)
 
 ## Table of contents
 ### Section 1: Introduction
-
 - [1. Curriculum Walkthrough](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344040#content)
     - There was a brief overview of the course here, I skipped it.
 - [2. Join The Community!](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/35421946#content)
@@ -15,7 +13,6 @@ This repository include my opinion and inspections about this course [JavaScript
     - He talked about which technologies i can write code for ex: "JsBin", "Atom", "SublimeText" etc. and a bit how we can use inspect tools like a snippets
 
 ### Section 2: Big O Notation
-
 - [5. Intro to Big O](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344044#content)
     - Here Mr.Settle talks about why we really need to know "Big O Notation"
 - [6. Timing Our Code](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344046#content)
@@ -32,23 +29,18 @@ This repository include my opinion and inspections about this course [JavaScript
 - [Quiz 1: Big O Time Complexity](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/4412974#content)
 
   ![](./Storage/screenshot_001.png)
-
 - [Quiz 2: Big O Time Complexity](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/4412976#content)
 
   ![](./Storage/screenshot_002.png)
   - i'm understood my false no worries
-  
 - [11. Space Complexity](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344050#content)
     - I watched the video and understood, I didn't need to take notes.
-
 - [Quiz 3: Big O Space Complexity](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/quiz/4412978#content)
 
   ![](./Storage/screenshot_003.png)
   - i'm understood my false no worries    
-
 - [12. Logs and Section Recap](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11198496#content)
     - Thanks for Mr.Settle learned for me Logs again 😁
-
 
 
 
