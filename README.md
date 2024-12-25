@@ -22,7 +22,9 @@ This repository include my opinion and inspections about this course [JavaScript
     - He started talk about in situation why we need this and at the moment i'm also do it for best practise at inside of folder BigONotation -> example_001.js and i leanned new things
       - [performance.now() Method](https://www.geeksforgeeks.org/javascript-performance-now-method/)
 - [7. Counting Operations](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344048#content)
-    - Coming soon . . .
+    - I watched the video and understood, I didn't need to take notes.
+- [8. Visualizing Time Complexities](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344026#content)
+    - Coming Soon . . .
 
 
 
