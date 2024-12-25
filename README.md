@@ -35,7 +35,7 @@ This repository include my opinion and inspections about this course [JavaScript
 
 
 ------------------------------------------------------------------
-
+<!-- 
 ![](./design/desktop-design.png)
 
 ### Links
@@ -72,4 +72,4 @@ This repository include my opinion and inspections about this course [JavaScript
 - Website - [TheHamidov42]( thehamidov42.herokuapp.com)
 - Frontend Mentor - [@RaviHamidov](https://www.frontendmentor.io/profile/@RaviHamidov)
 - Twitter - [@RaviHamidov](https://www.twitter.com/@RaviHamidov)
-- Instagram - [@RaviHamidov](https://www.instagram.com/ravihamidov/)
+- Instagram - [@RaviHamidov](https://www.instagram.com/ravihamidov/) -->
