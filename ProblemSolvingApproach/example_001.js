@@ -1,5 +1,4 @@
-// ==============================================================
-// write a function which takes two numbers and returns their sum
+// Write a function which takes two numbers and returns their sum
 // ==============================================================
 
 // Step 1. What we need in this problem ?
