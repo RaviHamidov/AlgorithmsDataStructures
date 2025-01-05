@@ -82,12 +82,10 @@ This repository include my opinion and inspections about this course [JavaScript
   - I watched the video and understood, I didn't need to take notes.
 - [19. Introduction to Problem Solving](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/9816140#overview)
   - I watched the video and understood, we are talk about here just wht we need to know problem solving.
-- []()
-  -
-- []()
-  -
-- []()
-  -
+- [20. Step 1: Understand The Problem](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/9816144#overview)
+  - i watched the video and practises is [here](./ProblemSolvingApproach/example_001.js)
+- ## []()
+- ## []()
 
 #### Credits
 
