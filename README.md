@@ -1,6 +1,7 @@
 Bugun kod yazmamsam 27.12.2024 indi baslamisam yazandan snra push edecem
 Bugun kod yazmamsam 28.12.2024 .
 Bugun kod yazmamsam 29.12.2024 . Sabah ucun hazirliq gordum yazilacaq .
+Bugun basladiq 05.01.2024 istirahet qutardi
 
 # AlgorithmsDataStructures
 
