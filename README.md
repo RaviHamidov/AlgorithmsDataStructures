@@ -76,7 +76,7 @@ This repository include my opinion and inspections about this course [JavaScript
 
   ![](./Storage/screenshot_005.png)
 
-### Section 2: Big O Notation
+### Section 4: Problem Solving Approach
 
 - [18. PREREQUISITES](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11198324#overview)
   - I watched the video and understood, I didn't need to take notes.
