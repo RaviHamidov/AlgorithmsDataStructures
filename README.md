@@ -1,7 +1,8 @@
 - Bugun kod yazmamsam 27.12.2024 indi baslamisam yazandan snra push edecem
 - Bugun kod yazmamsam 28.12.2024
 - Bugun kod yazmamsam 29.12.2024, Sabah ucun hazirliq gordum yazilacaq ( yazilmadi)
-- Bugun basladiq 05.01.2024 istirahet qutardi
+- Bugun basladiq 05.01.2024 istirahet qutardi (yazildi push edildi)
+- bugun kod yazmamisam 06.01.2024
 
 # AlgorithmsDataStructures
 
@@ -91,6 +92,8 @@ This repository include my opinion and inspections about this course [JavaScript
 - [22. Step 3: Break It Down](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11172598#overview)
   - I watched the video and understood, I didn't need to take notes.
 - [23. Step 4: Solve Or Simplify](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11172604#overview)
+  - I watched the video and understood, I didn't need to take notes.
+- [24. Step 5: Look Back and Refactor](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11172604#overview)
   - I watched the video and understood, I didn't need to take notes.
 
 #### Credits
