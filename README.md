@@ -1,9 +1,3 @@
-- Bugun kod yazmamsam 27.12.2024 indi baslamisam yazandan snra push edecem
-- Bugun kod yazmamsam 28.12.2024
-- Bugun kod yazmamsam 29.12.2024, Sabah ucun hazirliq gordum yazilacaq ( yazilmadi)
-- Bugun basladiq 05.01.2024 istirahet qutardi (yazildi push edildi)
-- bugun kod yazmamisam 06.01.2024
-
 # AlgorithmsDataStructures
 
 This repository include my opinion and inspections about this course [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/?couponCode=JUST4U02223)
