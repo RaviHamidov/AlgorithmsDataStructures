@@ -1,6 +1,6 @@
 # AlgorithmsDataStructures
 
-![](./Storage/screenshot_006.png)
+![](./Storage/screenshot_000.png)
 
 This repository include my opinion and inspections about this course [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/?couponCode=JUST4U02223)
 
